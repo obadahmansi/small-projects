@@ -56,18 +56,9 @@ This Python project allows users to visualize maze solving using three classic p
 
 ---
 
-## 📸 Demo Screenshot
-
-*(You can insert an image here after running the project and taking a screenshot)*
-
----
-
 ## 🧑‍💻 Author
 
 - **Obadah Abdullah Mansi**
-- Student ID: 2036214
-- Section: CS1
-
 ---
 
 ## 📄 License
