@@ -1,6 +1,4 @@
-# Student name: Obadah Abdullah Mansi
-# student ID: 2036214
-# Section : CS1
+
 import heapq
 import random
 import tkinter as tk
